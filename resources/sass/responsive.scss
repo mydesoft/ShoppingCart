@@ -1,0 +1,36 @@
+/*Large Device Wide Screen */
+
+@media only screen and(max-width : 1200px){
+	.container{
+	max-width: 960px;
+	}
+}
+
+/*Meduim Devices, Desktop */
+
+@media only screen and(max-width : 992px){
+	header{
+	.top-nav{
+	flex-direction: column;
+	}
+	}
+}
+
+/*small Devices, Tablet */
+
+@media only screen and(max-width : 760px){
+	
+}
+
+/*Extra Small Devices, Phones */
+
+@media only screen and(max-width : 400px){
+	
+}
+
+/*Custom, Iphone Retina */
+
+@media only screen and(max-width : 320px){
+	
+}
+
